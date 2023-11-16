@@ -1,6 +1,6 @@
 ---
 title: "The job search"
-date:2023-11-16
+date: 2023-11-16
 ---
 
 # The job search
